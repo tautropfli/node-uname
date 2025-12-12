@@ -1,4 +1,7 @@
 # Changelog
+## 3.1.2
+* Update `node-gyp` to 12.x
+
 ## 3.1.0
 * Add support for ES Modules, importing the package via `require(...)` is still supported.
 

@@ -1,5 +1,5 @@
 # Changelog
-## 3.1.2
+## 3.1.3
 * Update `node-gyp` to 12.x
 
 ## 3.1.0

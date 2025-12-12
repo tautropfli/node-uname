@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bash/node-uname.git"
+    "url": "git+https://github.com/tautropfli/node-uname.git"
   },
   "keywords": [
     "uname",
@@ -38,6 +38,6 @@
   "license": "MIT",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/bash/node-uname/issues"
+    "url": "https://github.com/tautropfli/node-uname/issues"
   }
 }

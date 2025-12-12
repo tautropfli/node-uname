@@ -1,9 +1,9 @@
 # node-uname
 
-[![Build Status](https://github.com/bash/node-uname/workflows/Build/badge.svg)](https://github.com/bash/node-uname/actions)
+[![Build Status](https://github.com/tautropfli/node-uname/workflows/Build/badge.svg)](https://github.com/tautropfli/node-uname/actions)
 [![npm](https://img.shields.io/npm/v/node-uname)](https://www.npmjs.com/package/node-uname)
 
-A wrapper around the `uname` call.  
+A wrapper around the `uname` call.
 Works on GNU/Linux and MacOS.
 
 ## Installation
